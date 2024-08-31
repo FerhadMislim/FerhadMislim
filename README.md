@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # 💫 About Me:
-## About Me
 
 - **Software Engineer** with expertise in backend development using Django.
 - Skilled in frontend development with **React** and **TypeScript**.
