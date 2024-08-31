@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 # 💫 About Me:
-•Software engineer with expertise in backend development using Django.<br>•Skilled in frontend development with React and TypeScript.<br>	•Focused on creating robust APIs and efficient data structures.<br>	•Passionate about writing well-structured unit tests and optimizing code.<br>•Experienced in handling complex data validations and transitions.<br>•Committed to delivering high-quality software solutions and enhancing user interfaces.
+## About Me
+
+- **Software Engineer** with expertise in backend development using Django.
+- Skilled in frontend development with **React** and **TypeScript**.
+- Focused on creating robust **APIs** and efficient data structures.
+- Passionate about writing well-structured **unit tests** and optimizing code.
+- Experienced in handling complex data validations and transitions.
+- Committed to delivering high-quality software solutions and enhancing user interfaces.
 
 
 # 💻 Tech Stack:
